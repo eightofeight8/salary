@@ -1,0 +1,11 @@
+node_modules
+dist
+dist-ssr
+*.local
+.env
+.env.local
+.vercel
+local.db
+local.db-journal
+*.log
+*.tsbuildinfo
